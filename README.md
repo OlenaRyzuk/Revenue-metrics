@@ -51,16 +51,16 @@ This dashboard is built on sample data from 3 different CSV files, joined in Tab
 —
 
 ## Recommendations
-**1.Improve user retention**
+- **1.Improve user retention**
     - Implement an onboarding campaign for new users
     - Use push notifications to keep users engaged
     - Offer bonuses or rewards for segments with high churn
-**2.Increase LTV and lifetime (LT)**
+- **2.Increase LTV and lifetime (LT)**
     - Apply upsell and cross-sell strategies to encourage users to spend more
     - Promote higher-tier subscriptions or in-game purchases
-**3.Control revenue churn**
+- **3.Control revenue churn**
     - Run reactivation campaigns targeting inactive or at-risk users
     - Identify and address the reasons why users churn
-**4.Acquire new users**
+- **4.Acquire new users**
     - Focus on marketing channels that attract loyal and high-quality users, e.g., social media ads, App Store campaigns
 
